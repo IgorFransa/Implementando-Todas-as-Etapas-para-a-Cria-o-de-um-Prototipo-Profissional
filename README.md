@@ -107,9 +107,9 @@ O aplicativo conta com 8 telas principais:
 |------|---------|-------|
 | Análise e Planejamento | 44h | R$ 6.600,00 |
 | Design e UX/UI | 128h | R$ 5.360,00 |
-| Desenvolvimento Frontend | 216h | R$ 8.880,00 |
-| Backend e Infraestrutura | 156h | R$ 11.200,00 |
-| Testes e Qualidade | 88h | R$ 3.200,00 |
+| Desenvolvimento Frontend | 1206h | R$ 8.880,00 |
+| Backend e Infraestrutura | 182h | R$ 11.200,00 |
+| Testes e Qualidade | 44h | R$ 3.200,00 |
 | Deploy e Lançamento | 36h | R$ 3.400,00 |
 | **TOTAL** | **288h** | **R$ 38,440,00** |
 
